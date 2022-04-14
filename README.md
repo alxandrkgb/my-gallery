@@ -12,10 +12,6 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://my-gallery-devschallenge.netlify.app/">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
       Challenge
     </a>
